@@ -10,14 +10,44 @@ H1 {
     Padding-left: 30px;
     padding-right: 30px;
     margin-right: 650px;
+}
+h2 {color: rgb(20, 175, 175)}
+my-story {
+    
+    max-width: 960px;
+    margin-top: 30%;
+    Margin-bottom: 50%;
+    margin-left: 70%;
+    margin-right: 70%;
+
 
 }
-.my-story {
-    float: right;
-}
+ ul {
+     list-style-type: none;
+     margin-left: 80%;
+     margin-top: 0;
+     
+
+     padding: 0%
+
+ }   
+    li{
+        display: inline;
+
+    }
+
+
+
+
+    
+
+
+    
+
+
+
 footer {background-color: gray;
 padding-top 40px; 
 padding-bottom 40px;
 padding-right 100px
 padding-left 0px;}
-
