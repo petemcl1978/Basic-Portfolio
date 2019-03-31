@@ -37,7 +37,12 @@ my-story {
     }
 
 
+.container {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
 
+}
 
     
 
@@ -46,7 +51,8 @@ my-story {
 
 
 
-footer {background-color: gray;
+footer {background-color: rgb(128, 128, 128);
+    color: rgb(128, 128, 128);
 padding-top 40px; 
 padding-bottom 40px;
 padding-right 100px
